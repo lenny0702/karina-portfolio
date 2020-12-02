@@ -4,7 +4,7 @@ module.exports = {
     title: `karina baby's portfolio`,
     author: `Lenny`,
     description: ``,
-    siteUrl: `https://lenny0702.github.io/karina/`,
+    siteUrl: `https://lenny0702.github.io/karina-portfolio/`,
     social: {
       twitter: `gatsbyjs`,
     },
