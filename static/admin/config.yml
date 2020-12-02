@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lenny0702/karina
+  repo: lenny0702/karina-portfolio
 
 media_folder: content/assets
 public_folder: ../assets
